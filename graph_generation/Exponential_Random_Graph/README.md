@@ -1,12 +1,8 @@
----
-affiliation: RAND Corporation
-author:
-- name: Raffaele Vardavas
-bibliography: ../../References/ERGM.bib
-date: "`r format(Sys.time(), '%B %d, %Y')`"
-output: "rmdformats::readthedown"
-title: Exponential family Random Graph Models (ERGMs) Approach
----
+# Title: Exponential family Random Graph Models (ERGMs) Approach
+
+Affiliation: RAND Corporation
+
+Author: Raffaele Vardavas
 
 # Introduction and Aim
 
